@@ -7,9 +7,10 @@ st.set_page_config(layout="wide")
 st.title("🇸🇬 Singapore Domestic Consumption by Commodity Division")
 
 
-st.markdown("""App copyright by: e-networksystems, May 2025
+st.markdown("""App Copyright by : e-networksystems, May 2025
 ### 📦 What’s This?
 A Data Science project: Making Guesstimates
+            
 This dashboard estimates **internal consumption** in Singapore using the formula:
 
 > **Consumption = Imports − Re-Exports**
