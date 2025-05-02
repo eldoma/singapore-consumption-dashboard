@@ -40,6 +40,12 @@ https://data.gov.sg/datasets/d_d57aee293789d31a8cb4097ad50e78cb/view
             
 📁 Official data from [data.gov.sg](https://data.gov.sg). Update Frequency: Monthly
 ---
+Key takeaways and notable trends: Singaporeans 
+- Consume more Edible Oil, Tea, Cocoa, Spices
+- Consume less Paper
+- Will be consuming less on Beverages
+- Doesn't consume much Clothing
+- Consuming a bit more Fish & Seafood
 """)
 
 # --- Upload Section ---
