@@ -42,13 +42,17 @@ https://data.gov.sg/datasets/d_d57aee293789d31a8cb4097ad50e78cb/view
 ---
 Key takeaways and notable trends: Singaporeans 
 - Consume more Edible Oil, Tea, Cocoa, Spices
+            
 Edible oils (Fixed Vegetable Fats & Oils) show volatile trends with large spikes and drops, but since 2010 the average monthly consumption appears to have stabilized at higher levels than pre-2000, indicating moderate to increased usage over time.
+
 Coffee, Tea, Cocoa, Spices & Manufactures show a clear upward trend, especially after 2010, with a strong spike in recent years — strongly suggesting growing consumption habits among Singaporeans for these products.
 
 - Singaporeans (both individuals and industries) are rapidly phasing out paper, aligning with digital and environmental trends.          
 
 - Will be consuming less on Beverages
+
 The chart suggests potential stagnation or even decline in Singapore’s domestic beverage consumption, especially in recent years.
+            
 Key signs:
 ⚠️ Heavy fluctuations and sharp negative values (post-2010), possibly indicating:
 Inventory re-exports exceeding imports (e.g., re-exporting stock)
@@ -62,10 +66,13 @@ Export-driven beverage trade (less local use)
 So yes, unless corrected, this data may imply lower domestic beverage demand, or at least more erratic patterns going forward.
             
 - Stable Clothing consumption
+            
 The Singaporean net domestic consumption is modest and stable, but masked by high re-export flows and global supply chain roles.
             
 - Consuming a bit more Fish & Seafood:
+            
 The chart strongly suggests that Singaporeans have been consuming more fish and seafood over time.
+            
 Key observations:
 📈 Long-term upward trend in domestic consumption from the 1980s through 2020s.
 📊 Especially sharp growth after the early 2000s, possibly due to population growth, dietary shifts, or improved trade access.
