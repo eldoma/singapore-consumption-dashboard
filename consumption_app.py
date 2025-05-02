@@ -71,14 +71,18 @@ So yes, unless corrected, this data may imply lower domestic beverage demand, or
             
 The Singaporean net domestic consumption is modest and stable, but masked by high re-export flows and global supply chain roles.
             
-## Consuming a bit more Fish & Seafood:
+## Consuming a bit more Fish & Seafood
             
 The chart strongly suggests that Singaporeans have been consuming more fish and seafood over time.
             
 Key observations:
+            
 📈 Long-term upward trend in domestic consumption from the 1980s through 2020s.
+            
 📊 Especially sharp growth after the early 2000s, possibly due to population growth, dietary shifts, or improved trade access.
+            
 ⚠️ The spikes and volatility in recent years could reflect seasonal demand, stockpiling, or supply chain shifts (e.g., during COVID).
+            
 So yes, the data supports that internal demand for fish and seafood has increased significantly.
 """)
 
