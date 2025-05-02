@@ -17,7 +17,26 @@ This dashboard estimates **internal consumption** in Singapore using:
 - `MerchandiseImportsByCommodityDivisionMonthly.csv`
 - `ReExportsByCommodityDivisionMonthly.csv`
 
-📁 Official data from [data.gov.sg](https://data.gov.sg)
+Merchandise Imports By Commodity Division, Monthly
+Data from Jan 1976 to Mar 2025
+
+Source: SINGSTAT (Singapore Department of Statistics)
+            
+Footnotes: Prior to 2003, merchandise trade data exclude Singapore's merchandise trade with Indonesia. Data prior to 1999 are based on Standard International Trade Classification (SITC) 3. Data from 1999 onwards are based on SITC 4.1 and consistent with the ASEAN Harmonised Tariff Nomenclature (AHTN) 2022 version.
+
+https://data.gov.sg/datasets/d_b89e35ce38cb93a17f5c016e71f50690/view
+
+
+Re-Exports By Commodity Division, Monthly
+Data from Jan 1976 to Mar 2025
+
+SINGSTAT (Singapore Department of Statistics)
+Source: ENTERPRISE SINGAPORE
+
+Footnotes: Prior to 2003, merchandise trade data exclude Singapore's merchandise trade with Indonesia. Data prior to 1999 are based on Standard International Trade Classification (SITC) 3. Data from 1999 onwards are based on SITC 4.1 and consistent with the ASEAN Harmonised Tariff Nomenclature (AHTN) 2022 version.            
+https://data.gov.sg/datasets/d_d57aee293789d31a8cb4097ad50e78cb/view
+            
+📁 Official data from [data.gov.sg](https://data.gov.sg). Update Frequency: Monthly
 ---
 """)
 
