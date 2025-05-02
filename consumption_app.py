@@ -40,7 +40,7 @@ https://data.gov.sg/datasets/d_d57aee293789d31a8cb4097ad50e78cb/view
             
 📁 Official data from [data.gov.sg](https://data.gov.sg). Update Frequency: Monthly
 ---
-Key takeaways and notable trends: Singaporeans 
+### 📈 Sample Key takeaways and notable trends: Singaporeans 
 ## Consume more Edible Oil, Tea, Cocoa, Spices
             
 Edible oils (Fixed Vegetable Fats & Oils) show volatile trends with large spikes and drops, but since 2010 the average monthly consumption appears to have stabilized at higher levels than pre-2000, indicating moderate to increased usage over time.
