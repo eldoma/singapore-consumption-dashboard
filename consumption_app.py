@@ -56,11 +56,15 @@ Aligning with digital and environmental trends.
 The chart suggests potential stagnation or even decline in Singapore’s domestic beverage consumption, especially in recent years.
             
 Key signs:
+            
 ⚠️ Heavy fluctuations and sharp negative values (post-2010), possibly indicating:
 Inventory re-exports exceeding imports (e.g., re-exporting stock)
 Seasonal dumping, corrections, or trade anomalies
+            
 📉 Lack of clear growth trend post-2015—consumption appears more volatile and flat, if not declining
+            
 📊 Compared to pre-2010: earlier decades showed steadier or moderate growth
+            
 Possible factors:
 Market saturation
 Shift to healthier or alternative drinks
