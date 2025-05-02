@@ -5,11 +5,12 @@ import matplotlib.pyplot as plt
 # --- Streamlit Setup ---
 st.set_page_config(layout="wide")
 st.title("🇸🇬 Singapore Domestic Consumption by Commodity Division")
+App copyright by: e-networksystems, May 2025
 
 st.markdown("""
 ### 📦 What’s This?
-
-This dashboard estimates **internal consumption** in Singapore using:
+A Data Science project: Making Guesstimates
+This dashboard estimates **internal consumption** in Singapore using the formula:
 
 > **Consumption = Imports − Re-Exports**
 
